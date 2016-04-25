@@ -3,9 +3,9 @@
  */
 
 exports.index = function(req, res){
-  res.render('index')
+	console.log("TEST")
+  res.redirect('/index.html')
 }
 exports.contactUs = function(req, res){
-  console.log(11)
   res.render('contact-1')
 }
