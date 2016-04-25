@@ -101,9 +101,9 @@ body.nicdark_boxed_pattern{ background-image: url(../img/patterns/img1.jpg) !imp
 /* 7 - START NICDARKTEXT*/
 p,h1,h2,h3,h4,h5,h6{ margin:0px; padding:0px; font-weight: normal; }
 /*font*/
-h1,h2,h3,h4,h5,h6,input[type="text"],textarea,select{ font-family: 'Montserrat', sans-serif; color: #868585; }
+h1,h2,h3,h4,h5,h6,input[type="text"],textarea,select{ font-family: 'Brandon', sans-serif; color: #868585; }
 h1.subtitle,h2.subtitle,h3.subtitle,h4.subtitle,h5.subtitle,h6.subtitle,input[type="text"].subtitle,textarea.subtitle,select.subtitle, span.subtitle{ font-family: 'Raleway', sans-serif; color:#a4a4a4; }
-h1.signature,h2.signature,h3.signature,h4.signature,h5.signature,h6.signature, span.signature{ font-family: 'Montez', cursive; }
+h1.signature,h2.signature,h3.signature,h4.signature,h5.signature,h6.signature, span.signature{ font-family: 'Brandon', cursive; }
 /*color*/
 p.white,h1.white,h2.white,h3.white,h4.white,h5.white,h6.white,a.white,i.white,span.white, input[type="text"].white, textarea.white, input[type="submit"].white, select.white{ color:#ffffff; }
 p.grey,h1.grey,h2.grey,h3.grey,h4.grey,h5.grey,h6.grey,a.grey,i.grey,span.grey, input[type="text"].grey, textarea.grey, input[type="submit"].grey, select.grey, pre.grey{ color:#a4a4a4; }
@@ -119,7 +119,7 @@ p.red,h1.red,h2.red,h3.red,h4.red,h5.red,h6.red,a.red,i.red,span.red, input[type
 p.center,h1.center,h2.center,h3.center,h4.center,h5.center,h6.center{ text-align: center; }
 p.right,h1.right,h2.right,h3.right,h4.right,h5.right,h6.right, span.right{ float: right; }
 /*size*/
-p{ font-size:15px; line-height: 22px; color:#a4a4a4; font-family: 'Raleway', sans-serif; }
+p{ font-size:15px; line-height: 22px; color:#a4a4a4; font-family: 'Brandon', sans-serif; }
 h1{ font-size: 30px; line-height: 30px; }
 h1.extrasize{ font-size: 45px; line-height: 45px; }
 h2{ font-size: 25px; line-height: 25px; }
@@ -158,6 +158,7 @@ select.big { font-size: 17px; padding: 15px 10%; }
 .nicdark_parallax_img2 { background:url(../img/slide/img2.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallax_img3 { background:url(../img/slide/img3.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallax_img1 { background:url(../img/slide/img1.jpg) 50% 0 fixed; background-size:cover; }
+.nicdark_parallax_img5 { background:url(../img/slide/img5.jpg) 50% 0 fixed; background-size:cover; }
 
 .nicdark_parallaxx_img1 { background: url(../img/parallax/img1.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallaxx_img2 { background: url(../img/parallax/img2.jpg) 50% 0 fixed; background-size:cover; }
