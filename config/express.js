@@ -20,8 +20,8 @@ module.exports = function (app, config, passport) {
   app.use(express.static(config.root + '/public'));
 
   // set views path, template engine and default layout
-  app.set('views', config.root + '/app/views');
-  app.set('view engine', 'ejs');
+  // app.set('views', config.root + '/app/views');
+  // app.set('view engine', 'ejs');
 
   app.use(bodyParser.json({limit: '5mb'}));
   app.use(bodyParser.urlencoded({extended: false, limit: '5mb'}));
